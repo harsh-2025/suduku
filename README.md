@@ -3,7 +3,7 @@ This is a C++ implementation of Donald Knuth's Algorithm DLX which enumerates al
 
 I also implemented it in JavaScript to create a simple Sudoku Solver web application.
 
-See it in action at: https://karlhajal.github.io/DLX-Sudoku-Solver
+See it in action at: https://suduku-5tiwtqhmg-harsh-2025.vercel.app
 
 ## Acknowledgements
 * Dr Knuth's *Dancing Links* Paper: http://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/0011047.pdf
